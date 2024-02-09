@@ -1,0 +1,269 @@
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+d----           11/3/2021  8:30 PM                Common
+d----           11/3/2021  8:30 PM                Config
+d----           12/9/2021  8:09 PM                DataFiles
+d----          12/11/2021  1:08 PM                Documentation
+d----          12/17/2021  2:52 PM                DOSBatchFiles
+d----           11/3/2021  8:30 PM                Features
+d----           11/3/2021  8:30 PM                Interface
+d----           11/3/2021  8:31 PM                packages
+d----           11/9/2021  3:24 PM                PageObjects
+d----          12/19/2021  2:34 PM                PowerShell
+d----          12/16/2021 10:56 AM                Reports
+d----           11/9/2021  3:18 PM                Steps
+d----          11/10/2021  9:41 PM                Support
+d----          12/16/2021  8:56 AM                Temp
+-a---           11/3/2021  8:29 PM            137 AcceptanceTests.csproj
+-a---          12/15/2021  7:49 PM            486 UnitTestTemplate.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Common
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+d----           11/3/2021  8:30 PM                Application
+d----          12/11/2021  1:06 PM                DataAccess
+d----          12/11/2021  1:07 PM                Exceptions
+d----          12/12/2021 12:49 PM                Library
+d----          12/16/2021 10:41 AM                Utilities
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Common\Application
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---            2/3/2017  4:04 PM          11673 RunTimeData.cs
+-a---          10/29/2021  1:34 PM           2138 RunTimeVars.cs
+-a---           11/3/2021  2:30 PM           2414 TestRunnerClass.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Common\DataAccess
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:06 PM             71 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Common\Exceptions
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:07 PM             72 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Common\Library
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/12/2021 12:49 PM          19610 Library.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Common\Utilities
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/13/2021 11:16 AM           1036 Extent-Config.xml
+-a---          12/16/2021 10:35 AM          10354 ExtentReporterClass.cs
+-a---          12/16/2021 10:41 AM           3104 ExtentReporterInterface.cs
+-a---            2/3/2017  4:04 PM            296 LogFile.cs
+-a---           11/4/2021 11:29 AM           4364 XmlDataFiles.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Config
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/2/2021  4:13 PM           1512 AppConfig.cs
+-a---           11/3/2021  2:03 PM           2307 AppSettings.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DataFiles
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+d----          12/11/2021  1:03 PM                Dev
+d----           11/3/2021  8:56 PM                Example
+d----          12/11/2021  1:02 PM                Local
+d----          12/11/2021  1:02 PM                Prod
+d----          12/11/2021  1:03 PM                QA
+-a---           12/8/2021 11:43 AM          39422 AARPMedicareAdvantagePlan5.1.pdf
+-a---           12/9/2021 12:55 PM          44677 AARPMedicareAdvantagePlan5.2.pdf
+-a---           11/3/2021  8:06 PM           4644 RunTimeData.xml
+-a---           12/7/2021  8:54 PM         146367 sample-pdf-file1.pdf
+-a---           12/9/2021 12:55 PM         153165 sample-pdf-file2.pdf
+-a---           12/7/2021  8:56 PM         104154 T38_TEST_PAGES1.pdf
+-a---           12/9/2021 12:56 PM         169707 T38_TEST_PAGES2.pdf
+-a---            2/3/2017  4:04 PM             27 Upload File1.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DataFiles\Dev
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021  2:16 PM           2121 DevAppSettings.json
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DataFiles\Example
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021  8:56 PM           5528 RunTimeData.xml
+-a---            2/3/2017  4:04 PM            286 XMLTestFile1.xml
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DataFiles\Local
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021  2:16 PM           2121 LocalAppSettings.json
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DataFiles\Prod
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021  2:16 PM           2121 ProdAppSettings.json
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DataFiles\QA
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021  2:16 PM           2121 QAAppSettings.json
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Documentation
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:08 PM             75 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\DOSBatchFiles
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/17/2021  2:52 PM           1065 DosBatchListDirs.bat
+-a---          12/17/2021  2:33 PM           1145 DosBatchListDirsOutput.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+d----          12/11/2021  1:08 PM                E2EWorkflowTests
+d----          12/11/2021  1:09 PM                FunctionalTests
+d----           11/8/2021  7:53 PM                NUnit Tests
+d----          12/19/2021  2:07 PM                POC
+d----          12/11/2021  1:09 PM                Requirements
+d----          12/11/2021  1:09 PM                StoryCards
+d----           11/3/2021  8:30 PM                TestFiles
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\E2EWorkflowTests
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:08 PM             78 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\FunctionalTests
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:09 PM             76 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\NUnit Tests
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          10/29/2021  1:34 PM           4832 TestChromeDriverClass.cs
+-a---           11/8/2021  7:53 PM            946 TestDrivers.cs
+-a---          10/29/2021  1:34 PM           3131 TestEdgeDriverClass.cs
+-a---          10/29/2021  1:34 PM           4063 TestFireFoxDriverClass.cs
+-a---          10/29/2021  1:34 PM            538 TestIEDriverClass.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\POC
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021 10:56 AM           1734 AppConfigTest.cs
+-a---           11/3/2021 11:07 AM           3083 AppSettingsJson.cs
+-a---           11/3/2021  2:05 PM           1481 AppSettingsJson2.cs
+-a---           12/9/2021  7:49 PM           3975 PdfMethods.cs
+-a---           12/9/2021  8:12 PM            595 ProofOfConceptClass.cs
+-a---          12/18/2021 10:20 AM           3663 TestDosBatchFiles.cs
+-a---          12/14/2021  9:33 PM           8212 TestExtentReports.cs
+-a---           12/9/2021  8:34 PM           1642 TestPDFClass.cs
+-a---          12/19/2021  2:07 PM           6806 TestPowerShell.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\Requirements
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:09 PM             74 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\StoryCards
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/11/2021  1:09 PM             72 TextFile.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Features\TestFiles
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          10/29/2021  1:34 PM            657 GoogleSearch.feature
+-a---           11/3/2021  8:34 PM           5856 GoogleSearch.feature.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Interface
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/3/2021  4:02 PM            836 TestRunnerInterface.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\packages
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          10/23/2021  9:08 PM        6011221 chromedriver_win32.zip
+-a---          10/23/2021  9:09 PM       11268096 chromedriver.exe
+-a---          10/26/2021  7:56 PM           1171 ReadMePackages.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\PageObjects
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/9/2021  3:24 PM           8692 LoginPage.cs
+-a---           11/3/2021  2:28 PM            233 TestPage1.cs
+-a---           11/3/2021  2:28 PM            227 TestPage2.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\PowerShell
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/19/2021  2:34 PM            776 PowerShellListDirs.ps1
+-a---          12/19/2021  2:37 PM              0 PowerShellListDirsOutput.txt
+-a---          12/19/2021  1:37 PM            911 PowerShellReadFile.ps1
+-a---          12/15/2021 10:37 PM            184 TestTextFile1.txt
+-a---          12/16/2021  5:46 PM            181 TestTextFile1Output.txt
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Reports
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/15/2021 10:09 AM          16360 index.html
+-a---          12/15/2021 10:09 AM         169806 TestChromeFailImage2.jpeg
+-a---          12/15/2021 10:09 AM         171530 TestChromePassImage1.jpeg
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Steps
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---           11/9/2021  3:18 PM           8009 GoogleSearchSteps.cs
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Support
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+d----          11/11/2021  1:10 PM                TestResults
+-a---            2/3/2017  4:04 PM            454 MakeProjectDirs.bat
+-a---          11/10/2021  9:41 PM            951 RunTestsDotNetTest.cmd
+-a---          11/10/2021  9:41 PM           1055 RunTestsDotNetTest.ps1
+-a---          11/10/2021  9:40 PM            944 RunTestsVSTest.cmd
+-a---          11/10/2021  9:40 PM           1041 RunTestsVSTest.ps1
+
+    Directory: C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests\Temp
+
+[32;1mMode                 LastWriteTime         Length Name[0m
+[32;1m----                 -------------         ------ ----[0m
+-a---          12/15/2021 10:09 AM          16360 index.html
+-a---          12/15/2021 10:09 AM         169806 TestChromeFailImage2.jpeg
+-a---          12/15/2021 10:09 AM         171530 TestChromePassImage1.jpeg
+

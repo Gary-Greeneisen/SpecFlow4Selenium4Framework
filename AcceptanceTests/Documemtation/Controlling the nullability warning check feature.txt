@@ -1,0 +1,22 @@
+﻿filename - Controlling the nullability warning check feature.txt
+From Web Page - https://subscription.packtpub.com/book/web-development/9781803237800/6/ch06lvl1sec57/working-with-null-values
+
+
+To enable the nullability warning check feature at the project level, add the following to your project file:
+
+<PropertyGroup>
+  ...
+  <Nullable>enable</Nullable>
+</PropertyGroup>
+
+Copy
+To disable the nullability warning check feature at the project level, add the following to your project file:
+
+<PropertyGroup>
+  ...
+  <Nullable>disable</Nullable>
+</PropertyGroup>
+
+    Note: Use the XML line comment <!-- --> 
+    <!--  <Nullable>enable</Nullable>  -->
+    <Nullable>disable</Nullable>

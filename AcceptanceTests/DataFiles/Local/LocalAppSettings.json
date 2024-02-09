@@ -1,0 +1,61 @@
+{
+
+  "***Start Test Section***": "************* Start Test Section *****************",
+  "***comment1***": "this is my comment #1, before the section credentials",
+  "credentials": {
+    "username": "usernamexx",
+    "password": "passwordxx"
+  },
+  "***comment2***": "this is my comment #2, before the section greetingTimes",
+  "greetingTimes": {
+    "morning": "6:00",
+    "afternoon": "12:00",
+    "night": "18:00"
+  },
+  "***End Test Section***": "************* End Test Section *****************",
+
+
+  "***Start Environment Vars Section***": "************* Start Environment Vars Section *****************",
+  "Test": "IT Test Value",
+  "URL": "https://workdayapipoc.egonzehnder.com",
+  "BrowserType2": "Chrome",
+  "BrowserType3": "FireFox",
+  "BrowserType4": "Edge",
+  "BrowserType": "IE",
+
+  "Environment2": "Local",
+  "Environment3": "Dev",
+  "Environment4": "QA",
+  "Environment": "Prod",
+  "***End Environment Vars Section***": "************* End Environment Vars Section *****************",
+
+  "***Start Local/Dev/QA/Prod Environment Config Section***": "************* Start Local/dev/QA/Prod Environment Configuration Section *****************",
+  "Local": {
+    "Test": "Local Environment",
+    "TargetURL": "https://www.yahoo.com/",
+    "dbconnectionString": "User Id=eas_app;Password=pzJ40O4WY;Data Source=APPSDEV"
+  },
+
+  "Dev": {
+    "Test": "Dev Environment",
+    "TargetURL": "https://safedev.ode.state.oh.us/portal",
+    "dbconnectionString": "User Id=eas_app;Password=pzJ40O4WY;Data Source=APPSDEV"
+  },
+
+  "QA": {
+    "Test": "QA Environment",
+    "TargetURL": "https://safeqa.ode.state.oh.us/portal",
+    "dbconnectionString": "User Id=eas_app;Password=pzJ40O4WY;Data Source=APPSDEV"
+  },
+
+  "Prod": {
+    "Test": "Prod Environment",
+    "TargetURL": "https://safeprod.ode.state.oh.us/portal",
+    "dbconnectionString": "User Id=eas_app;Password=pzJ40O4WY;Data Source=APPSDEV"
+  },
+
+  "***End Local/Dev/QA/Prod Environment Config Section***": "************* End Local/dev/QA/Prod Environment Configuration Section *****************"
+
+
+}
+

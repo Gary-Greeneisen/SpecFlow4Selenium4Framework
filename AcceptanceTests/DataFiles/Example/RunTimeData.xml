@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <!-- ***********************************
+  the Custom Config Section <configSections> </configSections> 
+  must be placed first In the app config file
+    *******************************  -->
+  <!-- Custom ConfigSections Section -->
+  <configSections>
+    <section name="Local" type="System.Configuration.NameValueSectionHandler" />
+    <section name="Dev" type="System.Configuration.NameValueSectionHandler" />
+    <section name="QA" type="System.Configuration.NameValueSectionHandler" />
+    <section name="Prod" type="System.Configuration.NameValueSectionHandler" />
+  </configSections>
+  
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+  
+  <!-- ***************************************************** -->
+  <!-- Local Environment RunTime Data Section               -->
+  <!-- ***************************************************** -->
+  <Local>
+    <!-- add key="Test" value="Local" -->
+    <add key="Test" value="Local Environment" />
+  </Local>
+  
+  <!-- ***************************************************** -->
+  <!-- Dev Environment RunTime Data Section                  -->
+  <!-- ***************************************************** -->
+  <Dev>
+    <!-- add key="Test" value="Dev Environment" -->
+    <add key="Test" value="Dev Environment" />
+    <add key="Key2" value="2" />
+    <!-- -->
+    <add key="Autism Provider Last New#" value="1" />
+    <add key="JPSN Provider Last New#" value="1" />
+    <!-- -->
+    <add key="Autism Scholarship Last New Student#" value="2" />
+    <add key="JPSN Scholarship Last New Student#" value="2" />
+    <add key="EdChoice Scholarship Last New Student#" value="204" />
+    <!-- -->
+    <add key="Autism Last SSID#" value="DV0000022" />
+    <add key="JPSN Last SSID#" value="DV0000022" />
+    <add key="EdChoice Last SSID#" value="DV0000024" />
+    <!-- -->
+    <add key="Autism Last SS#" value="101010001" />
+    <add key="JPSN Last SS#" value="101010001" />
+    <add key="EdChoice Last SS#" value="101010201" />
+  </Dev>
+  
+  <!-- ***************************************************** -->
+  <!-- QA Environment RunTime Data Section                   -->
+  <!-- ***************************************************** -->
+  <QA>
+    <!-- add key="Test" value="QA Environment" -->
+    <add key="Test" value="QA Environment" />
+    <add key="New Key" value="New Key Value1" />
+    <!-- -->
+    <add key="Autism Provider Last New#" value="3" />
+    <add key="JPSN Provider Last New#" value="1" />
+    <!-- -->
+    <add key="Autism Scholarship Last New Student#" value="42" />
+    <add key="JPSN Scholarship Last New Student#" value="2" />
+    <add key="EdChoice Scholarship Last New Student#" value="21" />
+    <!-- -->
+    <add key="Autism Last SSID#" value="QA1010038" />
+    <add key="JPSN Last SSID#" value="QA1010017" />
+    <add key="EdChoice Last SSID#" value="QA1010021" />
+    <!-- -->
+    <add key="Autism Last SS#" value="101010001" />
+    <add key="JPSN Last SS#" value="101010001" />
+    <add key="EdChoice Last SS#" value="101010001" />
+  </QA>
+  
+  <!-- ***************************************************** -->
+  <!-- Production Environment RunTime Data Section           -->
+  <!-- ***************************************************** -->
+  <Prod>
+    <!-- add key="Test" value="Prod Environment" -->
+    <add key="Test" value="Prod Environment" />
+    <add key="New Key" value="New Key Value1" />
+    <!-- -->
+    <add key="Autism Provider Last New#" value="3" />
+    <add key="JPSN Provider Last New#" value="1" />
+    <!-- -->
+    <add key="Autism Scholarship Last New Student#" value="1" />
+    <add key="JPSN Scholarship Last New Student#" value="1" />
+    <add key="EdChoice Scholarship Last New Student#" value="1" />
+    <!-- -->
+    <add key="Autism Last SSID#" value="PD0000022" />
+    <add key="JPSN Last SSID#" value="PD0000022" />
+    <add key="EdChoice Last SSID#" value="PD0000022" />
+    <!-- -->
+    <add key="Autism Last SS#" value="101010001" />
+    <add key="JPSN Last SS#" value="101010001" />
+    <add key="EdChoice Last SS#" value="101010001" />
+  </Prod>
+  
+  <!-- ******************************************** -->
+  <!-- *** Environment Vars Section ****            -->
+  <!--      Comment and Uncomment                   -->
+  <!-- ******************************************** -->
+  <appSettings>
+    <add key="Test" value="appSettings Value" />
+    <add key="URL" value="http://v-oceanit/ocean/login.aspx" />
+
+
+    <!-- ******************************************** -->
+    <!-- *** Different Browsers Section ****          -->
+    <!-- ******************************************** -->
+
+    <!-- 
+    <add key ="BrowserType" value="Firefox" />
+    -->
+
+    <!-- -->
+    <add key="BrowserType" value="Chrome" />
+
+
+    <!-- 
+    <add key ="BrowserType" value="IE" />
+    -->
+
+    <!-- 
+    <add key ="BrowserType" value="Edge" />
+    -->
+
+
+    <!-- ******************************************** -->
+    <!-- *** Environment Vars Section ****-->
+    <!-- ******************************************** -->
+
+    <!-- 
+    <add key="Environment" value="Local" />
+    -->
+
+    <!--   -->
+    <add key="Environment" value="Dev" />
+
+
+    <!--   
+    <add key="Environment" value="QA" />
+    -->
+
+    <!--
+    <add key="Environment" value="Prod" />
+    -->
+
+  </appSettings>
+  
+</configuration>

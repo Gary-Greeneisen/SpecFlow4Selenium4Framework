@@ -1,0 +1,25 @@
+ Volume in drive C is OS
+ Volume Serial Number is D22E-96B5
+
+ Directory of C:\Test1\Specflow3-Selenium-4-Framework-.Net-Core\AcceptanceTests
+
+12/16/2021  08:58 PM    <DIR>          .
+12/15/2021  10:44 PM    <DIR>          ..
+11/03/2021  07:29 PM               137 AcceptanceTests.csproj
+11/03/2021  07:30 PM    <DIR>          Common
+11/03/2021  07:30 PM    <DIR>          Config
+12/09/2021  08:09 PM    <DIR>          DataFiles
+12/11/2021  01:08 PM    <DIR>          Documentation
+12/17/2021  02:33 PM    <DIR>          DOSBatchFiles
+11/03/2021  07:30 PM    <DIR>          Features
+11/03/2021  07:30 PM    <DIR>          Interface
+11/03/2021  07:31 PM    <DIR>          packages
+11/09/2021  03:24 PM    <DIR>          PageObjects
+12/17/2021  10:36 AM    <DIR>          PowerShell
+12/16/2021  10:56 AM    <DIR>          Reports
+11/09/2021  03:18 PM    <DIR>          Steps
+11/10/2021  09:41 PM    <DIR>          Support
+12/16/2021  08:56 AM    <DIR>          Temp
+12/15/2021  07:49 PM               486 UnitTestTemplate.cs
+               2 File(s)            623 bytes
+              16 Dir(s)  292,813,770,752 bytes free
